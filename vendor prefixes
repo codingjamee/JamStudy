@@ -1,0 +1,21 @@
+Vendor prefixes 문서보기
+emmet의 지원은 html만 국한되지 않습니다.
+CSS Vendor Profixes기능을 지원하여 무의미한 타자 시간도 줄여줍니다.
+Docs : Vendor prefixes
+
+-webkit-transform: ;
+ -moz-transform: ;
+ -ms-transform: ;
+ -o-transform: ;
+ transform: ;
+위와같이 반복적인 입력이 필요할 경우 아래와 같이 사용하시면 됩니다.
+
+-wmso-trf
+하지만 스타일 값 입력은 한줄씩 해야하잖아요… 라고 생각 할 수 있지만 Sublime Text기능을 이용하여 동시에 입력 할 수 있는 상태로 변환됩니다.
+즉 한번에 입력으로 동시에 5줄을 입력 할 수 있다는 말이죠.
+
+Gradients를 생성할때도 지원합니다.
+
+
+
+출처: https://wayhome25.tistory.com/2 [trial and error]
